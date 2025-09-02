@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Orgânica Básica",
+    "category": "roupas",
+    "price": 89.90,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+    "description": "Camiseta 100% algodão orgânico, tingimento natural e produção sustentável.",
+    "sustainability": "Algodão orgânico certificado"
+  },
+  {
+    "id": 2,
+    "name": "Jaqueta de Fibra Reciclada",
+    "category": "roupas",
+    "price": 299.90,
+    "image": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=400&h=400&fit=crop",
+    "description": "Jaqueta feita com fibras recicladas de garrafas PET, resistente à água.",
+    "sustainability": "100% fibras recicladas"
+  },
+  {
+    "id": 3,
+    "name": "Shampoo Sólido Natural",
+    "category": "beleza",
+    "price": 45.90,
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=400&fit=crop",
+    "description": "Shampoo sólido com ingredientes naturais, sem sulfatos e parabenos.",
+    "sustainability": "Zero plástico, ingredientes naturais"
+  },
+  {
+    "id": 4,
+    "name": "Sabonete Artesanal de Lavanda",
+    "category": "beleza",
+    "price": 28.90,
+    "image": "https://images.unsplash.com/photo-1584305574647-0cc949a2bb9f?w=400&h=400&fit=crop",
+    "description": "Sabonete artesanal com óleo essencial de lavanda, hidratante natural.",
+    "sustainability": "Produção artesanal, ingredientes orgânicos"
+  },
+  {
+    "id": 5,
+    "name": "Caneca de Bambu Reutilizável",
+    "category": "casa",
+    "price": 39.90,
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400&h=400&fit=crop",
+    "description": "Caneca feita de fibra de bambu, reutilizável e biodegradável.",
+    "sustainability": "Bambu sustentável, biodegradável"
+  },
+  {
+    "id": 6,
+    "name": "Conjunto de Utensílios de Bambu",
+    "category": "casa",
+    "price": 79.90,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=400&fit=crop",
+    "description": "Kit com garfo, faca, colher e canudo de bambu em estojo de tecido.",
+    "sustainability": "Bambu renovável, reduz plástico descartável"
+  },
+  {
+    "id": 7,
+    "name": "Carregador Solar Portátil",
+    "category": "tecnologia",
+    "price": 189.90,
+    "image": "https://images.unsplash.com/photo-1593642532871-8b12e02d091c?w=400&h=400&fit=crop",
+    "description": "Carregador solar portátil para dispositivos móveis, energia limpa.",
+    "sustainability": "Energia solar renovável"
+  },
+  {
+    "id": 8,
+    "name": "Lâmpada LED Solar",
+    "category": "tecnologia",
+    "price": 129.90,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+    "description": "Lâmpada LED com painel solar integrado, ideal para jardins e áreas externas.",
+    "sustainability": "LED eficiente + energia solar"
+  },
+  {
+    "id": 9,
+    "name": "Bolsa Ecológica de Juta",
+    "category": "roupas",
+    "price": 59.90,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+    "description": "Bolsa resistente feita de fibra de juta natural, alças reforçadas.",
+    "sustainability": "Fibra natural biodegradável"
+  },
+  {
+    "id": 10,
+    "name": "Creme Facial Vegano",
+    "category": "beleza",
+    "price": 89.90,
+    "image": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?w=400&h=400&fit=crop",
+    "description": "Creme facial hidratante vegano com ácido hialurônico e extratos naturais.",
+    "sustainability": "Fórmula vegana, não testado em animais"
+  },
+  {
+    "id": 11,
+    "name": "Vaso Biodegradável de Fibra",
+    "category": "casa",
+    "price": 34.90,
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=400&fit=crop",
+    "description": "Vaso para plantas feito de fibra biodegradável, pode ser plantado direto na terra.",
+    "sustainability": "100% biodegradável"
+  },
+  {
+    "id": 12,
+    "name": "Powerbank Solar 10000mAh",
+    "category": "tecnologia",
+    "price": 249.90,
+    "image": "https://images.unsplash.com/photo-1609592806596-7c7b1e5b5b5b?w=400&h=400&fit=crop",
+    "description": "Bateria portátil com carregamento solar e USB, alta capacidade.",
+    "sustainability": "Carregamento solar + USB convencional"
+  }
+]
+
